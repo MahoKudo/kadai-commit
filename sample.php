@@ -1,3 +1,6 @@
+<?php>
+    $result='無し';
+?>
 <!DPCTYPE html>
 <html lang="ja">
     
